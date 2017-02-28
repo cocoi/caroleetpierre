@@ -2,11 +2,30 @@
 layout: page
 title: Hébergement
 permalink: /hebergement/
-feature-img: "img/sample_feature_img_2.png"
+feature-img: img/banner.gif
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+## Liste des hébergements
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Voici la liste des hébergements à proximité du Domaine Miltat. 
+Nous vous laissons vous organiser.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+**50€ la nuit environ :**
+
+* Première Classe Épernay
+
+**75€ la nuit environ :**
+
+* Comfort Suites Epernay (le plus proche)
+* Kyriad Epernay
+* Ibis Épernay Centre Ville
+
+**Plus de 100€ la nuit :**
+
+* La Villa Saint Pierre 
+* Hotel Jean Moët 
+* Maison d'hôtes La Poterne (gîte)
+
+**Gîtes du Domaine Miltat :**
+
+* Chambres réservées aux personnes avec enfants en bas âge (nous contacter)
