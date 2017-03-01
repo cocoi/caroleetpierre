@@ -7,7 +7,7 @@ feature-img: img/banner.gif
 
 ## Liste des hébergements
 
-Voici la liste des hébergements à proximité du Domaine Miltat. 
+Voici la liste des principaux hébergements à proximité du Domaine Miltat. 
 Nous vous laissons vous organiser mais n'hésitez pas à nous contacter si besoin.
 
 **50€ la nuit environ :**
