@@ -7,8 +7,8 @@ feature-img: img/banner.gif
 
 ## Liste des hébergements
 
-Voici la liste des hébergements à proximité du Domaine Miltat. 
-Nous vous laissons vous organiser.
+Voici la liste des principaux hébergements à proximité du Domaine Miltat. 
+Nous vous laissons vous organiser mais n'hésitez pas à nous contacter si besoin.
 
 **50€ la nuit environ :**
 
@@ -16,8 +16,8 @@ Nous vous laissons vous organiser.
 
 **75€ la nuit environ :**
 
-* Comfort Suites Epernay (le plus proche)
-* Kyriad Epernay
+* Comfort Suites Épernay (le plus proche)
+* Kyriad Épernay
 * Ibis Épernay Centre Ville
 
 **Plus de 100€ la nuit :**
