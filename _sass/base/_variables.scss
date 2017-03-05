@@ -9,10 +9,16 @@ $font-family-main: 'Caviar dreams','Source Sans Pro', Helvetica, Arial, sans-ser
 $font-family-headings: 'Caviar dreams', 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $font-size: 1.25em;
 
+@media (max-width: 480px) {
+   $font-size: 1em;
+}
+
 // Padding
 $padding-large: 30%;
 $padding-small: 2%;
 $padding-x-small: 3%;
+
+
 
 // Brand colours
 $brand-color: #fff;
