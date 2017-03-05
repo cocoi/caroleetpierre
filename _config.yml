@@ -16,7 +16,7 @@ theme_settings:
      <p class="call-out-subtitle">22 Juillet 2017</p>
   header_text_feature_image: img/banner.gif
   footer_text: >
-   <a href="/apropos/">À propos de ce site</a>
+   Nous contacter : contact@caroleetpierre.fr<br/><br/><a href="/apropos/">À propos de ce site</a>
 
   # Icons
   rss: false
