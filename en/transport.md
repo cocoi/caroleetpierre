@@ -72,7 +72,7 @@ map.on('load', function () {
 
 <img src="/img/domaine.png" alt="Mairie de Fontaine sur Aÿ" width="600px">
 
-* Photo credit: G.Garitan, CC-BY-SA 3.0, [available on wikipedia] (https://fr.wikipedia.org/wiki/Fontaine-sur-Ay#/media/File:Mairie_06000.JPG "Mairie de Fontaine sur Aÿ") *
+*Photo credit: G.Garitan, CC-BY-SA 3.0, [available on wikipedia](https://fr.wikipedia.org/wiki/Fontaine-sur-Ay#/media/File:Mairie_06000.JPG "Mairie de Fontaine sur Aÿ")*
 
 The town hall of Fontaine sur Aÿ is located in the heart of the village, close to the family house of the future bridegroom. The town hall building also once housed the municipal school.
 
