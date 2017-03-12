@@ -1,0 +1,10 @@
+---
+layout: default_en
+---
+<article {% if page.feature-img %}class="feature-image"{% endif %}>
+  <div class="call-out no-index" style="background-image: url('{{ site.baseurl }}/img/footer.gif')">
+     <p class="call-out-title">{{page.title}}</p> 
+     <p class="call-out-subtitle">~</p>
+  </div>
+  <section class="post-content">{{ content }}</section>
+</article>

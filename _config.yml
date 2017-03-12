@@ -14,10 +14,14 @@ theme_settings:
   header_text: >
      <p class="call-out-title">Carole &amp; Pierre</p> 
      <p class="call-out-subtitle">22 Juillet 2017</p>
+  header_text_en: > 
+    <p class="call-out-title">Carole &amp; Pierre</p> 
+    <p class="call-out-subtitle">22 July 2017</p> 
   header_text_feature_image: img/banner.gif
   footer_text: >
    Nous contacter : contact@caroleetpierre.fr<br/><br/><a href="/apropos/">À propos de ce site</a>
-
+  footer_text_en: >
+     Contact us: contact@caroleetpierre.fr<br/><br/><a href="/apropos/">About this website</a>
   # Icons
   rss: false
   email_address: # Full email address, e.g. "sam@example.com"
